@@ -39,3 +39,7 @@ fields:
   type: text
   hidden: true
   default: post
+- type: blocks
+  name: content_blocks
+  label: Content blocks
+  description: Building Blocks
